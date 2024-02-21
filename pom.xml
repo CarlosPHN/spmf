@@ -6,3 +6,8 @@
   <name>spmf</name>
   <description>spmf</description>
 </project>
+
+<properties>
+  <sonar.organization>carlosphn</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
